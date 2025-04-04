@@ -4,14 +4,14 @@ Uma API de charadas simples e divertida! O projeto é dividido em **backend**, q
 
 ## 🔧 Ferramentas Utilizadas
 ### ⚙️ Backend
-- 🐍 ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**
-- ⚡ ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg) **Flask**
+- 🐍  **Python**
+- ⚡  **Flask**
 - 📂 Manipulação de arquivos `.txt`
 
 ### 🎨 Frontend
-- 🌐 ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML**
-- 🎨 ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS**
-- 💡 ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 💡  **JavaScript**
 
 ## 📂 Estrutura do Projeto
 ```
