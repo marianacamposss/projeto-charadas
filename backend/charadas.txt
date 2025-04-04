@@ -1,0 +1,12 @@
+lista_charadas = [
+    {"id": 1, "pergunta": "O que é, o que é? A capital brasileira que está presente em todos os aniversários", "resposta": "Palmas"},
+    {"id": 2, "pergunta": "O que é, o que é? Que dá o poder de atravessar paredes", "resposta": "Porta"},
+    {"id": 3, "pergunta": "O que é, o que é? Tem centenas de rodas, mas não sai do lugar", "resposta": "Estacionamento"},
+    {"id": 4, "pergunta": "O que é, o que é? O zero disse para o oito", "resposta": "Cinto"},
+    {"id": 5, "pergunta": "O que é, o que é? O motivo dos ovos não contarem piadas", "resposta": "Rachar"},
+    {"id": 6, "pergunta": "O que é, o que é? A praia disse ao mar", "resposta": "Onda"},
+    {"id": 7, "pergunta": "O que é, o que é? Quebra quando se fala", "resposta": "Segredo"},
+    {"id": 8, "pergunta": "O que é, o que é? Quanto mais se tira, maior ele fica.", "resposta": "Buraco"},
+    {"id": 9, "pergunta": "O que é, o que é? Não tem boca, mas sempre responde quando falam com ele.", "resposta": "Eco"},
+    {"id": 10, "pergunta": "O que é, o que é? Tem chaves, mas não abre portas.", "resposta": "Teclado"}
+]
