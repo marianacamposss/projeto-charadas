@@ -3,12 +3,15 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #ffa8e1db;
+    background-color:#e8b9b9;
+    background-size: cover;
+    background-position: center;
     font-family: Arial, sans-serif;
 }
 
+
 .container {
-    background: #f7f0eb;
+    background-color: #f7f0eb;
     padding: 20px;
     border-radius: 15px;
     text-align: center;
@@ -44,3 +47,7 @@ button {
 .btn-charada {
     background-color: #f7d56b;
 }
+h3 {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
