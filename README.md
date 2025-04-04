@@ -20,5 +20,5 @@ PROJETO-CHARADAS
 
 ## 🚀 Deploy
 A API está disponível publicamente no seguinte link:
-[[vou adicionar o link](https://projeto-charadas-seven.vercel.app/)]
+(https://projeto-charadas-seven.vercel.app/)
 
