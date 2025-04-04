@@ -33,5 +33,5 @@ PROJETO-CHARADAS
 
 ## 🚀 Deploy
 A API está disponível publicamente no seguinte link:
-[🔗 Adicione aqui seu link do Vercel]
+[vou adicionar o link]
 
